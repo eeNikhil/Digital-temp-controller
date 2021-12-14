@@ -1,8 +1,5 @@
 /*  Name: Nikhil Saroya
  *  Project 4: Digital Temperature sensor
- *  ECE 312 Section D51
- * 
- *  Acknowledgements: Abhi Sharma helped me with the furnace functionality; 
  * 
  */
 
